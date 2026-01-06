@@ -1,14 +1,12 @@
-cat <<EOF > .gitignore
 # Terraform
 .terraform/
-**/.terraform/
-terraform.tfstate
-terraform.tfstate.*
-*.lock.hcl
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+terraform.tfvars.json
+.crash.log
+terraform.log
 
-# Maven
-target/
-
-# Env
-.env
-EOF
+# OS
+.DS_Store
+*.swp
