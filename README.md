@@ -229,4 +229,4 @@ DevOps / Cloud Engineer
 <img width="1342" height="455" alt="Screenshot 2026-01-06 175923" src="https://github.com/user-attachments/assets/3ea0971f-a45e-4532-8ce6-81cafa290ffe" />
 <img width="1341" height="563" alt="Screenshot 2026-01-06 180336" src="https://github.com/user-attachments/assets/7e227794-ddc7-450f-a6e4-09c8b759b8a5" />
 
-<img width="1341" height="563" alt="Screenshot 2026-01-06 180336" src="https://github.com/user-attachments/assets/61c6cf97-b87a-4b84-911e-b68936fc8f5d" />
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/2f04f7ab-3c21-469a-aa43-06514b47c2a0" />
