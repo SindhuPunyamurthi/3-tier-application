@@ -1,3 +1,4 @@
+<img width="1365" height="662" alt="Screenshot 2026-01-06 111207" src="https://github.com/user-attachments/assets/66762e24-ede1-4da6-9144-36ba1cfdda41" />
 # 🚀 StudentApp – AWS 3-Tier Architecture Using Terraform
 
 ## 📌 Project Overview
@@ -224,3 +225,4 @@ DevOps / Cloud Engineer
 📎 GitHub:
 👉 [https://github.com/SindhuPunyamurthi](https://github.com/SindhuPunyamurthi)
 
+<img width="1363" height="633" alt="Screenshot 2026-01-06 174443" src="https://github.com/user-attachments/assets/d4c2773e-5c79-4d22-a424-ca75e7a50165" />
