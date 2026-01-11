@@ -20,7 +20,8 @@ This project demonstrates real-world DevOps skills including:
 
 ```
 Users
-  |
+  |<img width="1358" height="554" alt="Screenshot 2026-01-06 175107" src="https://github.com/user-attachments/assets/81572e14-f934-4f03-9b33-75d6e2af5d2a" />
+
 CloudFront (CDN)
   |
 Application Load Balancer (ALB)
@@ -28,7 +29,9 @@ Application Load Balancer (ALB)
 Auto Scaling Group (Tomcat)
   |
 Backend EC2 (Java App)
-  |
+  |<img width="1342" height="455" alt="Screenshot 2026-01-06 175923" src="https://github.com/user-attachments/as<img width="1341" height="563" alt="Screenshot 2026-01-06 180336" src="https://github.com/user-attachments/assets/8a55cff5-331b-4a32-9795-b5ccaad23e9c" />
+sets/101621ff-5310-408d-bec9-3256d8a84a53" />
+
 Amazon RDS (MySQL)
 ```
 
