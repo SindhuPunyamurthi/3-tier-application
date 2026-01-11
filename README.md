@@ -29,9 +29,7 @@ Application Load Balancer (ALB)
 Auto Scaling Group (Tomcat)
   |
 Backend EC2 (Java App)
-  |<img width="1342" height="455" alt="Screenshot 2026-01-06 175923" src="https://github.com/user-attachments/as<img width="1341" height="563" alt="Screenshot 2026-01-06 180336" src="https://github.com/user-attachments/assets/8a55cff5-331b-4a32-9795-b5ccaad23e9c" />
-sets/101621ff-5310-408d-bec9-3256d8a84a53" />
-
+  |
 Amazon RDS (MySQL)
 ```
 
@@ -227,4 +225,7 @@ DevOps / Cloud Engineer
 📎 GitHub:
 👉 [https://github.com/SindhuPunyamurthi](https://github.com/SindhuPunyamurthi)
 
-<img width="1363" height="633" alt="Screenshot 2026-01-06 174443" src="https://github.com/user-attachments/assets/d4c2773e-5c79-4d22-a424-ca75e7a50165" />
+<img width="1363" height="633" alt="Screenshot 2026-01-06 174443" src="https://github.com/user-attachments/assets/d4c2773e-5c79-4d22-a424-ca75e7a50165" /><img width="1358" height="554" alt="Screenshot 2026-01-06 175107" src="https://github.com/user-attachments/assets/3ca9d3e4-1401-4022-9eb5-e72ed5270db4" />
+<img width="1342" height="455" alt="Screenshot 2026-01-06 175923" src="https://github.com/user-attachments/assets/3ea0971f-a45e-4532-8ce6-81cafa290ffe" />
+<img width="1341" height="563" alt="Screenshot 2026-01-06 180336" src="https://github.com/user-attachments/assets/7e227794-ddc7-450f-a6e4-09c8b759b8a5" />
+
