@@ -1,6 +1,6 @@
-# 🚀 StudentApp – AWS 3-Tier Architecture Using Terraform
+#  StudentApp – AWS 3-Tier Architecture Using Terraform
 
-## 📌 Project Overview
+##  Project Overview
 
 **StudentApp** is a production-style **3-Tier Web Application** deployed on **AWS** using **Terraform (Infrastructure as Code)**.
 The architecture follows AWS best practices for **scalability, availability, and security**.
@@ -16,7 +16,7 @@ This project demonstrates real-world DevOps skills including:
 
 ---
 
-## 🏗️ Architecture Diagram (Logical)
+##  Architecture Diagram (Logical)
 
 ```
 Users
@@ -34,10 +34,12 @@ Amazon RDS (MySQL)
 ```
 
 ---
+<img width="1400" height="1535" alt="image" src="https://github.com/user-attachments/assets/56d199e7-fea8-4067-8f6c-1da90778a2fa" />
 
-## 🧱 Architecture Components
 
-### 🌐 Networking (VPC Layer)
+##  Architecture Components
+
+###  Networking (VPC Layer)
 
 * Custom VPC
 * Public Subnets (Multi-AZ)
@@ -45,7 +47,7 @@ Amazon RDS (MySQL)
 * Internet Gateway
 * Route Tables
 
-### ⚙️ Application Layer
+###  Application Layer
 
 * **Application Load Balancer**
 * **Auto Scaling Group**
@@ -53,20 +55,20 @@ Amazon RDS (MySQL)
 * **Tomcat Server**
 * **Frontend & Backend EC2 Instances**
 
-### 🗄️ Database Layer
+###  Database Layer
 
 * **Amazon RDS (MySQL)**
 * Multi-AZ DB Subnet Group
 * Secure DB Security Group
 
-### 📦 Storage & CDN
+###  Storage & CDN
 
 * **Amazon S3** (Static assets)
 * **Amazon CloudFront** (Global content delivery)
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 
 * Separate **Security Groups** for:
 
@@ -82,7 +84,7 @@ Amazon RDS (MySQL)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology    | Purpose                |
 | ------------- | ---------------------- |
@@ -99,7 +101,7 @@ Amazon RDS (MySQL)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 studentapp/
@@ -120,7 +122,7 @@ studentapp/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Before running this project, ensure you have:
 
@@ -132,7 +134,7 @@ Before running this project, ensure you have:
 
 ---
 
-## 🔑 Required Variables
+##  Required Variables
 
 Update `terraform.tfvars` or variables accordingly:
 
@@ -143,33 +145,33 @@ key_name     = "your-ec2-keypair"
 db_password  = "StudentDB123"
 ```
 
-⚠️ **Note:**
+ **Note:**
 Use only **Free Tier eligible instance types**.
 
 ---
 
-## 🚀 Deployment Steps
+##  Deployment Steps
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 
 ```bash
 git clone https://github.com/SindhuPunyamurthi/3-tier-application.git
 cd 3-tier-application
 ```
 
-### 2️⃣ Initialize Terraform
+### 2️ Initialize Terraform
 
 ```bash
 terraform init
 ```
 
-### 3️⃣ Validate Configuration
+### 3️ Validate Configuration
 
 ```bash
 terraform validate
 ```
 
-### 4️⃣ Apply Infrastructure
+### 4️ Apply Infrastructure
 
 ```bash
 terraform apply
@@ -179,7 +181,7 @@ Type `yes` when prompted.
 
 ---
 
-## 🧹 Destroy Infrastructure (Cleanup)
+##  Destroy Infrastructure (Cleanup)
 
 ```bash
 terraform destroy
@@ -187,7 +189,7 @@ terraform destroy
 
 ---
 
-## 📤 Outputs
+##  Outputs
 
 After deployment, Terraform outputs:
 
@@ -197,7 +199,7 @@ After deployment, Terraform outputs:
 
 ---
 
-## 📈 Key DevOps Learnings
+##  Key DevOps Learnings
 
 ✔ Real-world AWS architecture
 ✔ Terraform debugging & state management
@@ -207,7 +209,7 @@ After deployment, Terraform outputs:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * HTTPS using ACM
 * CI/CD using GitHub Actions
@@ -217,13 +219,13 @@ After deployment, Terraform outputs:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sindhu Punyamurthi**
 DevOps / Cloud Engineer
 
-📎 GitHub:
-👉 [https://github.com/SindhuPunyamurthi](https://github.com/SindhuPunyamurthi)
+## GitHub:##
+ [https://github.com/SindhuPunyamurthi](https://github.com/SindhuPunyamurthi)
 
 <img width="1363" height="633" alt="Screenshot 2026-01-06 174443" src="https://github.com/user-attachments/assets/d4c2773e-5c79-4d22-a424-ca75e7a50165" /><img width="1358" height="554" alt="Screenshot 2026-01-06 175107" src="https://github.com/user-attachments/assets/3ca9d3e4-1401-4022-9eb5-e72ed5270db4" />
 <img width="1342" height="455" alt="Screenshot 2026-01-06 175923" src="https://github.com/user-attachments/assets/3ea0971f-a45e-4532-8ce6-81cafa290ffe" />
