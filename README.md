@@ -35,6 +35,7 @@ Amazon RDS (MySQL)
 
 ---
 <img width="1400" height="1535" alt="image" src="https://github.com/user-attachments/assets/56d199e7-fea8-4067-8f6c-1da90778a2fa" />
+<img width="803" height="567" alt="image" src="https://github.com/user-attachments/assets/58c2e557-9871-4aa2-aa7e-0eb2652557a5" />
 
 
 ##  Architecture Components
