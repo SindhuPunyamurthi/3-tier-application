@@ -35,7 +35,10 @@ Amazon RDS (MySQL)
 
 ---
 <img width="1400" height="1535" alt="image" src="https://github.com/user-attachments/assets/56d199e7-fea8-4067-8f6c-1da90778a2fa" />
+This architecture shows a 3-tier AWS deployment of my StudentApp, where user traffic enters through a Load Balancer and is handled by Nginx servers in private subnets. Requests are forwarded to Tomcat application servers running in Auto Scaling groups, which interact with a MySQL database hosted on Amazon RDS in private subnets. The setup uses a VPC with public and private subnets, NAT Gateway, and security groups to ensure high availability, scalability, and security
+
 <img width="803" height="567" alt="image" src="https://github.com/user-attachments/assets/58c2e557-9871-4aa2-aa7e-0eb2652557a5" />
+This project demonstrates a 3-tier Java Student Application deployed on AWS using Terraform. The infrastructure is built inside a secure VPC with public and private subnets across multiple Availability Zones to ensure high availability. User traffic is handled by a Load Balancer, forwarded to Nginx frontend servers, and then routed to Tomcat-based backend application servers. The application securely connects to an Amazon RDS MySQL database deployed in private subnets. Auto Scaling, security groups, and monitoring are implemented to provide scalability, security, and reliability.
 
 
 ##  Architecture Components
