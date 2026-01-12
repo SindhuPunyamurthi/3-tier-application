@@ -20,7 +20,7 @@ This project demonstrates real-world DevOps skills including:
 
 ```
 Users
-  |<img width="1358" height="554" alt="Screenshot 2026-01-06 175107" src="https://github.com/user-attachments/assets/81572e14-f934-4f03-9b33-75d6e2af5d2a" />
+  |
 
 CloudFront (CDN)
   |
